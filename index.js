@@ -23,6 +23,14 @@ const regiones1 = document.querySelectorAll("polyline.cls-1");
 const regiones2 = document.querySelectorAll("polyline.cls-2");
 const regiones3 = document.querySelectorAll("polyline.cls-3");
 const regiones4 = document.querySelectorAll("polyline.cls-4");
+const regiones1 = document.querySelectorAll("polyline.cls-5");
+const regiones2 = document.querySelectorAll("polyline.cls-6");
+const regiones3 = document.querySelectorAll("polyline.cls-7");
+const regiones4 = document.querySelectorAll("polyline.cls-8");
+const regiones1 = document.querySelectorAll("polyline.cls-9");
+const regiones2 = document.querySelectorAll("polyline.cls-10");
+const regiones3 = document.querySelectorAll("polyline.cls-11");
+const regiones4 = document.querySelectorAll("polyline.cls-12");
 
 const tooltip = document.getElementById("tooltip");
 
