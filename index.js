@@ -3,8 +3,8 @@
 
 const info = {
   _2445: 'Colonia Hidalgo · La Angostura',
-  _2443: 'Colonia Aldama · Colonia Juárez · El Platanar',
-  _2444: 'Noxtepec de Zaragoza · Santa María Xoquiac',
+  _2443: 'Colonia Aldama · Colonia Juárez · El Platanar',
+  _2444: 'Noxtepec de Zaragoza · Santa María Xoquiac',
   _2442:
     'San Pedro Chichicasco · Palo Dulce · Planta Alameda · Los Tepehuajes · Chichicasco Viejo · Casa Blanca',
   _2432: 'Cabecera Municipal',
@@ -16,9 +16,9 @@ const info = {
   _2447: 'El Puente Caporal',
   _2438: 'Tepopula',
   _2439:
-    'La Ladrillera · Loma del Coporo · Amate Amarillo · La Loma de San Felipe · El Puentecito · La Huerta ·Jalmolonga · Los Campos de San Martín · El Cerro Pelón · El Obrador · Colapa',
-  _2437: 'Jesús María · San Sebastián · San Nicolás',
-  _2436: 'San Simón el Alto',
+    'La Ladrillera · Loma del Coporo · Amate Amarillo · La Loma de San Felipe · El Puentecito · La Huerta ·Jalmolonga · Los Campos de San Martín · El Cerro Pelón · El Obrador · Colapa',
+  _2437: 'Jesús María · San Sebastián · San Nicolás',
+  _2436: 'San Simón el Alto',
 };
 const regiones1 = document.querySelectorAll('polyline.cls-1');
 const regiones2 = document.querySelectorAll('polyline.cls-2');
