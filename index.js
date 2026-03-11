@@ -115,9 +115,9 @@ regiones4.forEach((region) => {
   region.addEventListener('mouseleave', function () {
     tooltip.style.opacity = 0;
   });
-  });
+});
 
-  regiones5.forEach((region) => {
+regiones5.forEach((region) => {
   region.addEventListener('mousemove', function (e) {
     const parent = e.target.parentElement;
     const parentId = parent.id;
@@ -135,9 +135,9 @@ regiones4.forEach((region) => {
   region.addEventListener('mouseleave', function () {
     tooltip.style.opacity = 0;
   });
-  });
+});
 
-  regiones6.forEach((region) => {
+regiones6.forEach((region) => {
   region.addEventListener('mousemove', function (e) {
     const parent = e.target.parentElement;
     const parentId = parent.id;
@@ -155,9 +155,9 @@ regiones4.forEach((region) => {
   region.addEventListener('mouseleave', function () {
     tooltip.style.opacity = 0;
   });
-  });
+});
 
-  regiones7.forEach((region) => {
+regiones7.forEach((region) => {
   region.addEventListener('mousemove', function (e) {
     const parent = e.target.parentElement;
     const parentId = parent.id;
@@ -175,9 +175,9 @@ regiones4.forEach((region) => {
   region.addEventListener('mouseleave', function () {
     tooltip.style.opacity = 0;
   });
-  });
+});
 
-  regiones8.forEach((region) => {
+regiones8.forEach((region) => {
   region.addEventListener('mousemove', function (e) {
     const parent = e.target.parentElement;
     const parentId = parent.id;
@@ -195,9 +195,9 @@ regiones4.forEach((region) => {
   region.addEventListener('mouseleave', function () {
     tooltip.style.opacity = 0;
   });
-  });
+});
 
-  regiones9.forEach((region) => {
+regiones9.forEach((region) => {
   region.addEventListener('mousemove', function (e) {
     const parent = e.target.parentElement;
     const parentId = parent.id;
@@ -215,9 +215,9 @@ regiones4.forEach((region) => {
   region.addEventListener('mouseleave', function () {
     tooltip.style.opacity = 0;
   });
-  });
+});
 
-  regiones10.forEach((region) => {
+regiones10.forEach((region) => {
   region.addEventListener('mousemove', function (e) {
     const parent = e.target.parentElement;
     const parentId = parent.id;
@@ -235,9 +235,9 @@ regiones4.forEach((region) => {
   region.addEventListener('mouseleave', function () {
     tooltip.style.opacity = 0;
   });
-  });
+});
 
-  regiones11.forEach((region) => {
+regiones11.forEach((region) => {
   region.addEventListener('mousemove', function (e) {
     const parent = e.target.parentElement;
     const parentId = parent.id;
@@ -255,9 +255,9 @@ regiones4.forEach((region) => {
   region.addEventListener('mouseleave', function () {
     tooltip.style.opacity = 0;
   });
-  });
+});
 
-  regiones12.forEach((region) => {
+regiones12.forEach((region) => {
   region.addEventListener('mousemove', function (e) {
     const parent = e.target.parentElement;
     const parentId = parent.id;
@@ -275,9 +275,9 @@ regiones4.forEach((region) => {
   region.addEventListener('mouseleave', function () {
     tooltip.style.opacity = 0;
   });
-  });
+});
 
-  regiones13.forEach((region) => {
+regiones13.forEach((region) => {
   region.addEventListener('mousemove', function (e) {
     const parent = e.target.parentElement;
     const parentId = parent.id;
@@ -295,9 +295,9 @@ regiones4.forEach((region) => {
   region.addEventListener('mouseleave', function () {
     tooltip.style.opacity = 0;
   });
-  });
+});
 
-  regiones14.forEach((region) => {
+regiones14.forEach((region) => {
   region.addEventListener('mousemove', function (e) {
     const parent = e.target.parentElement;
     const parentId = parent.id;
@@ -315,9 +315,9 @@ regiones4.forEach((region) => {
   region.addEventListener('mouseleave', function () {
     tooltip.style.opacity = 0;
   });
-  });
+});
 
-  regiones15.forEach((region) => {
+regiones15.forEach((region) => {
   region.addEventListener('mousemove', function (e) {
     const parent = e.target.parentElement;
     const parentId = parent.id;
@@ -335,4 +335,4 @@ regiones4.forEach((region) => {
   region.addEventListener('mouseleave', function () {
     tooltip.style.opacity = 0;
   });
-  });
+});
