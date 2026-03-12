@@ -14,11 +14,12 @@ const info = {
   _2441: 'Monte Grande · El Zapote',
   _2440: 'Pachiquilla · Palmar de Guadalupe',
   _2447: 'El Puente Caporal',
-  _2438: 'Tepopula',
+  _2438: 'Tepopula · Chalma',
   _2439:
     'La Ladrillera · Loma del Coporo · Amate Amarillo · La Loma de San Felipe · El Puentecito · La Huerta ·Jalmolonga · Los Campos de San Martín · El Cerro Pelón · El Obrador · Colapa',
   _2437: 'Jesús María · San Sebastián · San Nicolás',
   _2436: 'San Simón el Alto',
+  _2446: 'Colonia Emiliano Zapata · San Andrés Nicolás Bravo',
 };
 const regiones1 = document.querySelectorAll('polyline.cls-1');
 const regiones2 = document.querySelectorAll('polyline.cls-2');
@@ -35,6 +36,8 @@ const regiones12 = document.querySelectorAll('polyline.cls-12');
 const regiones13 = document.querySelectorAll('polyline.cls-13');
 const regiones14 = document.querySelectorAll('polyline.cls-14');
 const regiones15 = document.querySelectorAll('polyline.cls-15');
+const regiones16 = document.querySelectorAll('polyline.cls-16');
+
 const tooltip = document.getElementById('tooltip');
 
 regiones1.forEach((region) => {
@@ -318,6 +321,26 @@ regiones14.forEach((region) => {
 });
 
 regiones15.forEach((region) => {
+  region.addEventListener('mousemove', function (e) {
+    const parent = e.target.parentElement;
+    const parentId = parent.id;
+
+    tooltip.style.opacity = 1;
+
+    const texto = info[parentId] || this.id;
+
+    tooltip.innerHTML = texto;
+
+    tooltip.style.left = e.pageX + 15 + 'px';
+    tooltip.style.top = e.pageY + 15 + 'px';
+  });
+
+  region.addEventListener('mouseleave', function () {
+    tooltip.style.opacity = 0;
+  });
+});
+
+regiones16.forEach((region) => {
   region.addEventListener('mousemove', function (e) {
     const parent = e.target.parentElement;
     const parentId = parent.id;
