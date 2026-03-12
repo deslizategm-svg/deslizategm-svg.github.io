@@ -41,157 +41,167 @@
   transition: 0.2s;
 }
 .cls-1 {
-                fill: #525252;
-                stroke-linecap: square;
-                stroke-miterlimit: 10;
-                stroke-width: 0.72px;
-              }
+  fill: #525252;
+  stroke-linecap: square;
+  stroke-miterlimit: 10;
+  stroke-width: 0.72px;
+}
 
-              .cls-1:hover {
-                fill: #ff4d4d;
-              }
+.cls-1:hover {
+  fill: #43AA8B;
+}
 
 .cls-2 {
-                fill: #808080;
-                stroke-linecap: square;
-                stroke-miterlimit: 10;
-                stroke-width: 0.72px;
-              }
+  fill: #808080;
+  stroke-linecap: square;
+  stroke-miterlimit: 10;
+  stroke-width: 0.72px;
+}
 
-              .cls-2:hover {
-                fill: #002447;
-              }
+.cls-2:hover {
+  fill: #9D4EDD;
+}
 
 .cls-3 {
-                fill: #969696;
-                stroke-linecap: square;
-                stroke-miterlimit: 10;
-                stroke-width: 0.72px;
-              }
+  fill: #969696;
+  stroke-linecap: square;
+  stroke-miterlimit: 10;
+  stroke-width: 0.72px;
+}
 
-              .cls-3:hover {
-                fill: #345671;
-              }
+.cls-3:hover {
+  fill: #F72585;
+}
 
 .cls-4 {
-                fill: #616161;
-                stroke-linecap: square;
-                stroke-miterlimit: 10;
-                stroke-width: 0.72px;
-              }
+  fill: #616161;
+  stroke-linecap: square;
+  stroke-miterlimit: 10;
+  stroke-width: 0.72px;
+}
 
-              .cls-4:hover {
-                fill: #06d6a0;
-              }
+.cls-4:hover {
+  fill: #6A4C93;
+}
 
 .cls-5 {
-                fill: #6e6e6e;
-                stroke-linecap: square;
-                stroke-miterlimit: 10;
-                stroke-width: 0.72px;
-              }
+  fill: #6e6e6e;
+  stroke-linecap: square;
+  stroke-miterlimit: 10;
+  stroke-width: 0.72px;
+}
 
-              .cls-5:hover {
-                fill: #feb249;
-              }
+.cls-5:hover {
+  fill: #3A86FF;
+}
 
 .cls-6 {
-                fill: #7c7c7c;
-                stroke-linecap: square;
-                stroke-miterlimit: 10;
-                stroke-width: 0.72px;
-              }
+  fill: #7c7c7c;
+  stroke-linecap: square;
+  stroke-miterlimit: 10;
+  stroke-width: 0.72px;
+}
 
-              .cls-6:hover {
-                fill: #ff4d4d;
-              }
+.cls-6:hover {
+  fill: #118AB2;
+}
 .cls-7 {
-                fill: #898989;
-                stroke-linecap: square;
-                stroke-miterlimit: 10;
-                stroke-width: 0.72px;
-              }
+  fill: #898989;
+  stroke-linecap: square;
+  stroke-miterlimit: 10;
+  stroke-width: 0.72px;
+}
 
-              .cls-7:hover {
-                fill: #feb249;
-              } 
+.cls-7:hover {
+  fill: #2EC4B6;
+}
 .cls-8 {
-                fill: #979797;
-                stroke-linecap: square;
-                stroke-miterlimit: 10;
-                stroke-width: 0.72px;
-              }
+  fill: #979797;
+  stroke-linecap: square;
+  stroke-miterlimit: 10;
+  stroke-width: 0.72px;
+}
 
-              .cls-8:hover {
-                fill: #feb249;
-              }
+.cls-8:hover {
+  fill: #F15BB5;
+}
 .cls-9 {
-                fill: #a5a5a5;
-                stroke-linecap: square;
-                stroke-miterlimit: 10;
-                stroke-width: 0.72px;
-              }
+  fill: #a5a5a5;
+  stroke-linecap: square;
+  stroke-miterlimit: 10;
+  stroke-width: 0.72px;
+}
 
-              .cls-9:hover {
-                fill: #feb249;
-              }
+.cls-9:hover {
+  fill: #06D6A0;
+}
 .cls-10 {
-                fill: #b4b4b4;
-                stroke-linecap: square;
-                stroke-miterlimit: 10;
-                stroke-width: 0.72px;
-              }
+  fill: #b4b4b4;
+  stroke-linecap: square;
+  stroke-miterlimit: 10;
+  stroke-width: 0.72px;
+}
 
-              .cls-10:hover {
-                fill: #feb249;
-              }
+.cls-10:hover {
+  fill: #feb249;
+}
 .cls-11 {
-                fill: #c2c2c2;
-                stroke-linecap: square;
-                stroke-miterlimit: 10;
-                stroke-width: 0.72px;
-              }
+  fill: #c2c2c2;
+  stroke-linecap: square;
+  stroke-miterlimit: 10;
+  stroke-width: 0.72px;
+}
 
-              .cls-11:hover {
-                fill: #ff4d4d;
-              }
+.cls-11:hover {
+  fill: #ff4d4d;
+}
 .cls-12 {
-                fill: #d1d1d1;
-                stroke-linecap: square;
-                stroke-miterlimit: 10;
-                stroke-width: 0.72px;
-              }
+  fill: #d1d1d1;
+  stroke-linecap: square;
+  stroke-miterlimit: 10;
+  stroke-width: 0.72px;
+}
 
-              .cls-12:hover {
-                fill: #feb249;
-              }
+.cls-12:hover {
+  fill: #feb249;
+}
 .cls-13 {
-                fill: #808080;
-                stroke-linecap: square;
-                stroke-miterlimit: 10;
-                stroke-width: 0.72px;
-              }
+  fill: #808080;
+  stroke-linecap: square;
+  stroke-miterlimit: 10;
+  stroke-width: 0.72px;
+}
 
-              .cls-13:hover {
-                fill: #feb249;
-              }
+.cls-13:hover {
+  fill: #feb249;
+}
 .cls-14 {
-                fill: #969696;
-                stroke-linecap: square;
-                stroke-miterlimit: 10;
-                stroke-width: 0.72px;
-              }
+  fill: #969696;
+  stroke-linecap: square;
+  stroke-miterlimit: 10;
+  stroke-width: 0.72px;
+}
 
-              .cls-14:hover {
-                fill: #ff4d4d;
-              }
+.cls-14:hover {
+  fill: #ff4d4d;
+}
 .cls-15 {
-                fill: #808080;
-                stroke-linecap: square;
-                stroke-miterlimit: 10;
-                stroke-width: 0.72px;
-              }
+  fill: #808080;
+  stroke-linecap: square;
+  stroke-miterlimit: 10;
+  stroke-width: 0.72px;
+}
 
-              .cls-15:hover {
-                fill: #feb249;
-              }
+.cls-15:hover {
+  fill: #FF8A3D;
+}
+.cls-16 {
+  fill: #808080;
+  stroke-linecap: square;
+  stroke-miterlimit: 10;
+  stroke-width: 0.72px;
+}
+
+.cls-16:hover {
+  fill: #577590;
+}
